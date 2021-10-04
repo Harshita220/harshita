@@ -1,4 +1,3 @@
-# harshita
 
-this is my first commit
-gfnbgfgbg
+# demand and supply
+## economic growth and economic development
